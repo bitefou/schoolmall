@@ -8,7 +8,7 @@
   export default {
     data() {
       return {
-        test:"444"
+        test:"4444"
       };
     },
     onLoad() {},
